@@ -8,7 +8,7 @@
 - 📫 You can contact me through email: qianlidong@mail.nankai.edu.cn
 
 
-## 🛠 Skills 🛠
+## Skills 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,7 +23,10 @@
   <a href="https://scholar.google.com/citations?user=hnuR7tEAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
 </p>
 
-[![charlie-dog's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=charlie-dog&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+
+
+[![charlie-dog's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=charlie-dog&hide=prs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -31,8 +34,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlie-dog&show_icons=true&hide_border=true&theme=radical" alt="charlie-dog's stats" width="56%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-dog&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="charlie-dog's lang" width="42.7%">
-</div>
 
+## My repos 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=GVP-MREP&theme=merko)](https://github.com/NKU-MobFly-Robotics/GVP-MREP)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=EDEN&theme=merko)](https://github.com/NKU-MobFly-Robotics/EDEN)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=high_maneuverability_exploration&theme=merko)](https://github.com/NKU-MobFly-Robotics/high_maneuverability_exploration)
