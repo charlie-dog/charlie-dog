@@ -39,6 +39,7 @@
 ## My repos 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=GVP-MREP&theme=merko)](https://github.com/NKU-MobFly-Robotics/GVP-MREP)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=EDEN&theme=merko)](https://github.com/NKU-MobFly-Robotics/EDEN)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=high_maneuverability_exploration&theme=merko)](https://github.com/NKU-MobFly-Robotics/RipNeon)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NKU-MobFly-Robotics&repo=high_maneuverability_exploration&theme=merko)](https://github.com/NKU-MobFly-Robotics/high_maneuverability_exploration)
 
 ## I dont want to change the world, I dont want the world to change me
